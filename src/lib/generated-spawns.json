@@ -1,0 +1,5865 @@
+{
+ "chests": [
+  {
+   "x": 33.75,
+   "y": 25.99,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.3,
+   "y": 24.59,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 32.54,
+   "y": 25.57,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.33,
+   "y": 25.07,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.28,
+   "y": 25.29,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.37,
+   "y": 24.33,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.65,
+   "y": 24.98,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.2,
+   "y": 25.14,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.92,
+   "y": 25.82,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 35.37,
+   "y": 25.79,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.94,
+   "y": 26.31,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.24,
+   "y": 25.39,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.76,
+   "y": 25.68,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.57,
+   "y": 25.08,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.48,
+   "y": 25.67,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.28,
+   "y": 23.99,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.1,
+   "y": 25.25,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.28,
+   "y": 25.74,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.33,
+   "y": 25.55,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.55,
+   "y": 25.77,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.71,
+   "y": 24.87,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.27,
+   "y": 25.79,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.73,
+   "y": 25.21,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.73,
+   "y": 25.71,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.35,
+   "y": 24.52,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.19,
+   "y": 25.02,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.79,
+   "y": 26.33,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.38,
+   "y": 25.1,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.67,
+   "y": 26.17,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 32.29,
+   "y": 23.85,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 32.94,
+   "y": 23.36,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.53,
+   "y": 26.31,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 57.99,
+   "y": 28.17,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.01,
+   "y": 28.44,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.23,
+   "y": 30.31,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 56.44,
+   "y": 28.24,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.13,
+   "y": 29.47,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.16,
+   "y": 30.88,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.87,
+   "y": 28.77,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.47,
+   "y": 27.92,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.02,
+   "y": 30.15,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.27,
+   "y": 27.75,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.21,
+   "y": 28.33,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.23,
+   "y": 26.55,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.85,
+   "y": 29.2,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 56.66,
+   "y": 26.45,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.67,
+   "y": 26.86,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.74,
+   "y": 28.99,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 54.83,
+   "y": 28.42,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 56.05,
+   "y": 28.01,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.23,
+   "y": 28.71,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.23,
+   "y": 28.27,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.77,
+   "y": 26.77,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.09,
+   "y": 28.83,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.87,
+   "y": 28.9,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.51,
+   "y": 26.88,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.93,
+   "y": 28.44,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 56.91,
+   "y": 27.41,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.09,
+   "y": 28.56,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.66,
+   "y": 28.87,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.98,
+   "y": 29.51,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.33,
+   "y": 28.37,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 68.92,
+   "y": 35.6,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 69.12,
+   "y": 36.05,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 66.43,
+   "y": 36.13,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.37,
+   "y": 35.48,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 69.64,
+   "y": 35.99,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.54,
+   "y": 35.67,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 69.01,
+   "y": 35.3,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 66.38,
+   "y": 35.95,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 67.05,
+   "y": 33.77,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 70.71,
+   "y": 34.36,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.13,
+   "y": 34.45,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.33,
+   "y": 34.03,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 67.63,
+   "y": 35.13,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 67.56,
+   "y": 34.97,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 67.65,
+   "y": 36.24,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.26,
+   "y": 36.06,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 67.51,
+   "y": 37.3,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 69.49,
+   "y": 36.81,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.63,
+   "y": 35.09,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.51,
+   "y": 35.15,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 67.89,
+   "y": 36.1,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 69.06,
+   "y": 34.92,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 23.05,
+   "y": 37.69,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 23.03,
+   "y": 37.43,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.29,
+   "y": 37.71,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.04,
+   "y": 36.34,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.27,
+   "y": 37.47,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 23.22,
+   "y": 37.62,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 23.13,
+   "y": 38.54,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 23.25,
+   "y": 37.38,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.81,
+   "y": 36.82,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.3,
+   "y": 37.36,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.93,
+   "y": 37.72,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.28,
+   "y": 38.77,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 23.08,
+   "y": 35.81,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.91,
+   "y": 37.24,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.66,
+   "y": 37.16,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.57,
+   "y": 38.25,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 40.28,
+   "y": 39.18,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.97,
+   "y": 39.25,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 43.01,
+   "y": 41.38,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.1,
+   "y": 38.74,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 42.39,
+   "y": 38.7,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 40.35,
+   "y": 37.76,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 40.99,
+   "y": 39.26,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.47,
+   "y": 38.22,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.05,
+   "y": 39.09,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 40.81,
+   "y": 37.34,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 40.81,
+   "y": 38.78,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 42.3,
+   "y": 38.63,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.32,
+   "y": 39.37,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.36,
+   "y": 38.82,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.52,
+   "y": 38.45,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.74,
+   "y": 38.83,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 42.81,
+   "y": 37.52,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 43.42,
+   "y": 39.18,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 40.84,
+   "y": 39.74,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 39.98,
+   "y": 39.32,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 40.28,
+   "y": 40.53,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 42.44,
+   "y": 39.22,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 40.72,
+   "y": 39.6,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.04,
+   "y": 39.7,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 29.35,
+   "y": 50.02,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.65,
+   "y": 50.24,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 30.23,
+   "y": 49.47,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 30.89,
+   "y": 51.91,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.19,
+   "y": 48.8,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 30.36,
+   "y": 51.41,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.44,
+   "y": 51.21,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 27.49,
+   "y": 49.77,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.05,
+   "y": 48.71,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.08,
+   "y": 50.85,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.9,
+   "y": 50.39,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 30.15,
+   "y": 49.43,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.15,
+   "y": 51.49,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.44,
+   "y": 50.38,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.07,
+   "y": 48.15,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.25,
+   "y": 49.08,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 30.57,
+   "y": 48.57,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.87,
+   "y": 50.3,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.26,
+   "y": 48.96,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 31.31,
+   "y": 52.51,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 30.34,
+   "y": 51.37,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.86,
+   "y": 50.61,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 27.67,
+   "y": 50.86,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.87,
+   "y": 50.69,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.09,
+   "y": 50.59,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.76,
+   "y": 50.09,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.92,
+   "y": 50.68,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.82,
+   "y": 50.53,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.1,
+   "y": 50.88,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.02,
+   "y": 50.54,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.88,
+   "y": 50.18,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.44,
+   "y": 49.1,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 30.38,
+   "y": 49.0,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.39,
+   "y": 48.89,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 57.96,
+   "y": 49.07,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 58.46,
+   "y": 49.12,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 57.74,
+   "y": 49.58,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 58.64,
+   "y": 47.88,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 58.76,
+   "y": 49.04,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 58.67,
+   "y": 48.71,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 57.09,
+   "y": 48.64,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 57.93,
+   "y": 49.54,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 58.03,
+   "y": 49.44,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 57.28,
+   "y": 49.23,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 59.91,
+   "y": 47.81,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 58.3,
+   "y": 49.66,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 58.57,
+   "y": 51.44,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 59.39,
+   "y": 48.41,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 55.97,
+   "y": 49.69,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 58.08,
+   "y": 49.96,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 57.95,
+   "y": 50.21,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 57.66,
+   "y": 49.51,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 57.27,
+   "y": 49.41,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 57.1,
+   "y": 49.7,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 57.27,
+   "y": 49.61,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 56.3,
+   "y": 47.8,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 72.76,
+   "y": 54.13,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.35,
+   "y": 53.94,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 72.81,
+   "y": 53.87,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.28,
+   "y": 54.25,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 70.71,
+   "y": 52.85,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.72,
+   "y": 54.49,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 70.98,
+   "y": 54.24,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 70.63,
+   "y": 55.03,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.32,
+   "y": 53.12,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 69.83,
+   "y": 53.12,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.77,
+   "y": 53.74,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 72.01,
+   "y": 54.21,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.34,
+   "y": 53.41,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.31,
+   "y": 53.42,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.48,
+   "y": 53.85,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 70.7,
+   "y": 54.07,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 70.58,
+   "y": 54.89,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 70.86,
+   "y": 54.42,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.77,
+   "y": 53.85,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.86,
+   "y": 53.71,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.5,
+   "y": 55.4,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 72.44,
+   "y": 54.76,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.72,
+   "y": 54.48,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.3,
+   "y": 54.07,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 72.48,
+   "y": 55.5,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 70.93,
+   "y": 53.65,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 44.57,
+   "y": 61.09,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.42,
+   "y": 60.91,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.81,
+   "y": 62.09,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 43.28,
+   "y": 61.32,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 46.16,
+   "y": 60.79,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 43.59,
+   "y": 60.43,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.28,
+   "y": 60.97,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 43.51,
+   "y": 60.16,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.21,
+   "y": 61.45,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 42.69,
+   "y": 59.53,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.6,
+   "y": 60.21,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 45.61,
+   "y": 59.98,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.3,
+   "y": 61.5,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 45.51,
+   "y": 60.05,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.24,
+   "y": 61.18,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 43.91,
+   "y": 61.76,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 45.41,
+   "y": 61.42,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.34,
+   "y": 60.88,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 42.88,
+   "y": 60.92,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.79,
+   "y": 61.71,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 43.4,
+   "y": 61.71,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.78,
+   "y": 59.14,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.94,
+   "y": 60.31,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 45.93,
+   "y": 59.2,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.34,
+   "y": 60.91,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.51,
+   "y": 61.11,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.27,
+   "y": 61.06,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.63,
+   "y": 59.93,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.3,
+   "y": 60.32,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.03,
+   "y": 60.01,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 43.24,
+   "y": 60.14,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 43.3,
+   "y": 61.6,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 25.61,
+   "y": 65.26,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.7,
+   "y": 66.39,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 28.02,
+   "y": 67.14,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.18,
+   "y": 64.99,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.65,
+   "y": 66.27,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 27.28,
+   "y": 65.77,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.54,
+   "y": 65.22,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.84,
+   "y": 66.54,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.41,
+   "y": 66.3,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 25.82,
+   "y": 65.87,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 27.12,
+   "y": 65.74,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 24.67,
+   "y": 66.2,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 25.83,
+   "y": 66.55,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 25.97,
+   "y": 67.5,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.05,
+   "y": 65.7,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 25.61,
+   "y": 66.36,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 25.83,
+   "y": 65.57,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 28.58,
+   "y": 67.18,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.08,
+   "y": 66.02,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 24.69,
+   "y": 66.26,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.56,
+   "y": 65.61,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 24.42,
+   "y": 65.61,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.46,
+   "y": 66.49,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 27.63,
+   "y": 66.84,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.38,
+   "y": 66.28,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.93,
+   "y": 65.62,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.2,
+   "y": 66.21,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.78,
+   "y": 65.94,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 24.65,
+   "y": 66.62,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.26,
+   "y": 66.58,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.2,
+   "y": 66.2,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 27.4,
+   "y": 66.55,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.72,
+   "y": 66.37,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.71,
+   "y": 65.95,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.45,
+   "y": 67.33,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.44,
+   "y": 66.53,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 62.21,
+   "y": 65.58,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.79,
+   "y": 63.37,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.98,
+   "y": 64.41,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.41,
+   "y": 64.61,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.59,
+   "y": 65.1,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.25,
+   "y": 64.55,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.27,
+   "y": 65.06,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 60.85,
+   "y": 66.33,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.04,
+   "y": 65.86,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 64.85,
+   "y": 66.23,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.96,
+   "y": 64.21,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.96,
+   "y": 65.02,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 59.64,
+   "y": 63.71,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.36,
+   "y": 63.39,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 63.69,
+   "y": 65.93,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.26,
+   "y": 63.78,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.4,
+   "y": 65.74,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.68,
+   "y": 65.5,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.7,
+   "y": 65.77,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.92,
+   "y": 65.54,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.1,
+   "y": 63.68,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.68,
+   "y": 66.54,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 63.37,
+   "y": 64.37,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.53,
+   "y": 65.96,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 63.25,
+   "y": 67.11,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.28,
+   "y": 65.21,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.06,
+   "y": 65.54,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 63.74,
+   "y": 65.25,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 45.1,
+   "y": 74.67,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.63,
+   "y": 75.57,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.7,
+   "y": 74.71,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.67,
+   "y": 75.18,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.21,
+   "y": 77.56,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.69,
+   "y": 74.72,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 44.1,
+   "y": 75.16,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.29,
+   "y": 75.07,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.08,
+   "y": 74.98,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 44.75,
+   "y": 74.73,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.65,
+   "y": 73.55,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.81,
+   "y": 74.7,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.57,
+   "y": 75.06,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 43.23,
+   "y": 73.3,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.35,
+   "y": 74.44,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 47.76,
+   "y": 75.96,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.44,
+   "y": 75.47,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 46.09,
+   "y": 74.9,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 44.68,
+   "y": 73.08,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.04,
+   "y": 74.6,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 66.74,
+   "y": 75.87,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 66.92,
+   "y": 75.68,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.01,
+   "y": 74.85,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.77,
+   "y": 76.01,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 64.96,
+   "y": 74.52,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.41,
+   "y": 76.77,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 66.64,
+   "y": 76.16,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 66.69,
+   "y": 76.27,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.82,
+   "y": 74.23,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 66.67,
+   "y": 75.86,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.5,
+   "y": 76.31,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 70.19,
+   "y": 76.46,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 66.67,
+   "y": 76.37,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.94,
+   "y": 75.31,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 66.06,
+   "y": 75.89,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.59,
+   "y": 76.03,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 64.47,
+   "y": 75.93,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.58,
+   "y": 76.16,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 46.67,
+   "y": 49.59,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.13,
+   "y": 49.62,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 46.74,
+   "y": 49.73,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.37,
+   "y": 49.6,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 46.12,
+   "y": 51.16,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 45.92,
+   "y": 48.0,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 48.55,
+   "y": 49.92,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 48.92,
+   "y": 48.5,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.07,
+   "y": 49.45,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 46.6,
+   "y": 49.99,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 46.22,
+   "y": 50.55,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 45.46,
+   "y": 51.01,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 45.52,
+   "y": 49.39,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.02,
+   "y": 49.5,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 45.99,
+   "y": 49.47,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.72,
+   "y": 50.69,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 45.39,
+   "y": 49.59,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 46.85,
+   "y": 50.14,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.65,
+   "y": 49.6,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 46.95,
+   "y": 51.85,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.68,
+   "y": 50.08,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.71,
+   "y": 50.65,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 46.68,
+   "y": 49.8,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.58,
+   "y": 49.82,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.0,
+   "y": 50.94,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.74,
+   "y": 51.01,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.6,
+   "y": 49.77,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 50.15,
+   "y": 50.2,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 48.9,
+   "y": 50.04,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.9,
+   "y": 49.76,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 22.35,
+   "y": 46.82,
+   "poiId": "landmark"
+  },
+  {
+   "x": 38.67,
+   "y": 39.45,
+   "poiId": "landmark"
+  },
+  {
+   "x": 66.08,
+   "y": 47.72,
+   "poiId": "landmark"
+  },
+  {
+   "x": 37.29,
+   "y": 70.91,
+   "poiId": "landmark"
+  },
+  {
+   "x": 22.33,
+   "y": 66.64,
+   "poiId": "landmark"
+  },
+  {
+   "x": 55.62,
+   "y": 63.84,
+   "poiId": "landmark"
+  },
+  {
+   "x": 41.29,
+   "y": 43.86,
+   "poiId": "landmark"
+  },
+  {
+   "x": 30.9,
+   "y": 47.48,
+   "poiId": "landmark"
+  },
+  {
+   "x": 15.33,
+   "y": 42.77,
+   "poiId": "landmark"
+  },
+  {
+   "x": 79.2,
+   "y": 51.48,
+   "poiId": "landmark"
+  },
+  {
+   "x": 78.74,
+   "y": 56.72,
+   "poiId": "landmark"
+  },
+  {
+   "x": 73.28,
+   "y": 28.7,
+   "poiId": "landmark"
+  },
+  {
+   "x": 47.95,
+   "y": 69.25,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.94,
+   "y": 40.96,
+   "poiId": "landmark"
+  },
+  {
+   "x": 20.63,
+   "y": 74.69,
+   "poiId": "landmark"
+  },
+  {
+   "x": 35.19,
+   "y": 23.22,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.37,
+   "y": 47.64,
+   "poiId": "landmark"
+  },
+  {
+   "x": 69.33,
+   "y": 49.18,
+   "poiId": "landmark"
+  },
+  {
+   "x": 60.84,
+   "y": 58.48,
+   "poiId": "landmark"
+  },
+  {
+   "x": 31.93,
+   "y": 61.57,
+   "poiId": "landmark"
+  },
+  {
+   "x": 70.93,
+   "y": 31.78,
+   "poiId": "landmark"
+  },
+  {
+   "x": 73.51,
+   "y": 32.31,
+   "poiId": "landmark"
+  },
+  {
+   "x": 42.62,
+   "y": 80.62,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.62,
+   "y": 56.27,
+   "poiId": "landmark"
+  },
+  {
+   "x": 61.47,
+   "y": 20.86,
+   "poiId": "landmark"
+  },
+  {
+   "x": 64.77,
+   "y": 61.81,
+   "poiId": "landmark"
+  },
+  {
+   "x": 68.33,
+   "y": 73.46,
+   "poiId": "landmark"
+  },
+  {
+   "x": 56.09,
+   "y": 54.44,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.39,
+   "y": 53.78,
+   "poiId": "landmark"
+  },
+  {
+   "x": 53.74,
+   "y": 62.51,
+   "poiId": "landmark"
+  },
+  {
+   "x": 59.68,
+   "y": 61.88,
+   "poiId": "landmark"
+  },
+  {
+   "x": 59.54,
+   "y": 57.08,
+   "poiId": "landmark"
+  },
+  {
+   "x": 30.46,
+   "y": 64.07,
+   "poiId": "landmark"
+  },
+  {
+   "x": 13.2,
+   "y": 52.05,
+   "poiId": "landmark"
+  },
+  {
+   "x": 66.29,
+   "y": 55.6,
+   "poiId": "landmark"
+  },
+  {
+   "x": 35.91,
+   "y": 20.06,
+   "poiId": "landmark"
+  },
+  {
+   "x": 45.35,
+   "y": 54.98,
+   "poiId": "landmark"
+  },
+  {
+   "x": 25.67,
+   "y": 26.85,
+   "poiId": "landmark"
+  },
+  {
+   "x": 77.41,
+   "y": 31.8,
+   "poiId": "landmark"
+  },
+  {
+   "x": 18.79,
+   "y": 69.6,
+   "poiId": "landmark"
+  },
+  {
+   "x": 49.22,
+   "y": 30.81,
+   "poiId": "landmark"
+  },
+  {
+   "x": 52.15,
+   "y": 58.38,
+   "poiId": "landmark"
+  },
+  {
+   "x": 63.75,
+   "y": 74.3,
+   "poiId": "landmark"
+  },
+  {
+   "x": 44.39,
+   "y": 27.83,
+   "poiId": "landmark"
+  },
+  {
+   "x": 37.19,
+   "y": 32.88,
+   "poiId": "landmark"
+  },
+  {
+   "x": 71.32,
+   "y": 37.9,
+   "poiId": "landmark"
+  },
+  {
+   "x": 25.77,
+   "y": 32.16,
+   "poiId": "landmark"
+  },
+  {
+   "x": 30.26,
+   "y": 75.12,
+   "poiId": "landmark"
+  },
+  {
+   "x": 24.25,
+   "y": 16.99,
+   "poiId": "landmark"
+  },
+  {
+   "x": 62.95,
+   "y": 70.13,
+   "poiId": "landmark"
+  },
+  {
+   "x": 13.82,
+   "y": 58.1,
+   "poiId": "landmark"
+  },
+  {
+   "x": 66.11,
+   "y": 54.95,
+   "poiId": "landmark"
+  },
+  {
+   "x": 22.52,
+   "y": 27.21,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.29,
+   "y": 61.42,
+   "poiId": "landmark"
+  },
+  {
+   "x": 9.71,
+   "y": 72.83,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.05,
+   "y": 34.38,
+   "poiId": "landmark"
+  },
+  {
+   "x": 54.64,
+   "y": 29.58,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.44,
+   "y": 51.53,
+   "poiId": "landmark"
+  },
+  {
+   "x": 81.5,
+   "y": 55.07,
+   "poiId": "landmark"
+  },
+  {
+   "x": 31.81,
+   "y": 72.49,
+   "poiId": "landmark"
+  },
+  {
+   "x": 47.01,
+   "y": 60.61,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.2,
+   "y": 36.43,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.88,
+   "y": 66.18,
+   "poiId": "landmark"
+  },
+  {
+   "x": 77.15,
+   "y": 30.6,
+   "poiId": "landmark"
+  },
+  {
+   "x": 40.05,
+   "y": 61.43,
+   "poiId": "landmark"
+  },
+  {
+   "x": 34.06,
+   "y": 80.22,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.97,
+   "y": 43.56,
+   "poiId": "landmark"
+  },
+  {
+   "x": 35.93,
+   "y": 16.12,
+   "poiId": "landmark"
+  },
+  {
+   "x": 40.59,
+   "y": 52.59,
+   "poiId": "landmark"
+  },
+  {
+   "x": 66.6,
+   "y": 43.57,
+   "poiId": "landmark"
+  },
+  {
+   "x": 48.38,
+   "y": 29.55,
+   "poiId": "landmark"
+  },
+  {
+   "x": 69.95,
+   "y": 79.86,
+   "poiId": "landmark"
+  },
+  {
+   "x": 44.47,
+   "y": 71.57,
+   "poiId": "landmark"
+  },
+  {
+   "x": 37.52,
+   "y": 53.17,
+   "poiId": "landmark"
+  },
+  {
+   "x": 39.74,
+   "y": 28.55,
+   "poiId": "landmark"
+  },
+  {
+   "x": 78.2,
+   "y": 32.08,
+   "poiId": "landmark"
+  },
+  {
+   "x": 67.0,
+   "y": 39.75,
+   "poiId": "landmark"
+  },
+  {
+   "x": 17.78,
+   "y": 33.29,
+   "poiId": "landmark"
+  },
+  {
+   "x": 36.96,
+   "y": 44.77,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.77,
+   "y": 31.69,
+   "poiId": "landmark"
+  },
+  {
+   "x": 45.86,
+   "y": 32.01,
+   "poiId": "landmark"
+  },
+  {
+   "x": 34.15,
+   "y": 76.31,
+   "poiId": "landmark"
+  },
+  {
+   "x": 20.58,
+   "y": 52.75,
+   "poiId": "landmark"
+  },
+  {
+   "x": 52.86,
+   "y": 33.55,
+   "poiId": "landmark"
+  },
+  {
+   "x": 64.78,
+   "y": 28.56,
+   "poiId": "landmark"
+  },
+  {
+   "x": 30.22,
+   "y": 59.58,
+   "poiId": "landmark"
+  },
+  {
+   "x": 49.85,
+   "y": 50.91,
+   "poiId": "landmark"
+  },
+  {
+   "x": 58.16,
+   "y": 25.16,
+   "poiId": "landmark"
+  },
+  {
+   "x": 50.12,
+   "y": 44.99,
+   "poiId": "landmark"
+  },
+  {
+   "x": 18.41,
+   "y": 67.78,
+   "poiId": "landmark"
+  },
+  {
+   "x": 41.71,
+   "y": 73.99,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.64,
+   "y": 81.52,
+   "poiId": "landmark"
+  },
+  {
+   "x": 19.04,
+   "y": 82.98,
+   "poiId": "landmark"
+  },
+  {
+   "x": 52.7,
+   "y": 25.21,
+   "poiId": "landmark"
+  },
+  {
+   "x": 53.1,
+   "y": 28.85,
+   "poiId": "landmark"
+  },
+  {
+   "x": 54.88,
+   "y": 56.86,
+   "poiId": "landmark"
+  },
+  {
+   "x": 51.14,
+   "y": 69.87,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.12,
+   "y": 33.57,
+   "poiId": "landmark"
+  },
+  {
+   "x": 55.39,
+   "y": 26.42,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.63,
+   "y": 36.54,
+   "poiId": "landmark"
+  },
+  {
+   "x": 43.5,
+   "y": 24.47,
+   "poiId": "landmark"
+  },
+  {
+   "x": 24.32,
+   "y": 26.29,
+   "poiId": "landmark"
+  },
+  {
+   "x": 20.93,
+   "y": 57.68,
+   "poiId": "landmark"
+  },
+  {
+   "x": 26.7,
+   "y": 50.13,
+   "poiId": "landmark"
+  },
+  {
+   "x": 12.36,
+   "y": 39.92,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.54,
+   "y": 76.72,
+   "poiId": "landmark"
+  },
+  {
+   "x": 34.55,
+   "y": 58.78,
+   "poiId": "landmark"
+  },
+  {
+   "x": 32.72,
+   "y": 61.24,
+   "poiId": "landmark"
+  },
+  {
+   "x": 31.38,
+   "y": 42.91,
+   "poiId": "landmark"
+  },
+  {
+   "x": 20.02,
+   "y": 55.4,
+   "poiId": "landmark"
+  },
+  {
+   "x": 58.38,
+   "y": 73.64,
+   "poiId": "landmark"
+  },
+  {
+   "x": 70.21,
+   "y": 57.29,
+   "poiId": "landmark"
+  },
+  {
+   "x": 73.38,
+   "y": 75.88,
+   "poiId": "landmark"
+  },
+  {
+   "x": 60.23,
+   "y": 35.5,
+   "poiId": "landmark"
+  },
+  {
+   "x": 50.97,
+   "y": 40.9,
+   "poiId": "landmark"
+  },
+  {
+   "x": 21.77,
+   "y": 33.92,
+   "poiId": "landmark"
+  },
+  {
+   "x": 24.41,
+   "y": 45.12,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.08,
+   "y": 45.0,
+   "poiId": "landmark"
+  },
+  {
+   "x": 31.02,
+   "y": 32.95,
+   "poiId": "landmark"
+  },
+  {
+   "x": 79.09,
+   "y": 56.12,
+   "poiId": "landmark"
+  },
+  {
+   "x": 37.26,
+   "y": 52.8,
+   "poiId": "landmark"
+  },
+  {
+   "x": 52.65,
+   "y": 33.75,
+   "poiId": "landmark"
+  },
+  {
+   "x": 63.26,
+   "y": 40.4,
+   "poiId": "landmark"
+  },
+  {
+   "x": 31.39,
+   "y": 73.72,
+   "poiId": "landmark"
+  },
+  {
+   "x": 49.6,
+   "y": 79.09,
+   "poiId": "landmark"
+  },
+  {
+   "x": 71.3,
+   "y": 36.18,
+   "poiId": "landmark"
+  },
+  {
+   "x": 60.01,
+   "y": 42.06,
+   "poiId": "landmark"
+  },
+  {
+   "x": 76.44,
+   "y": 44.67,
+   "poiId": "landmark"
+  },
+  {
+   "x": 66.73,
+   "y": 41.65,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.83,
+   "y": 26.06,
+   "poiId": "landmark"
+  },
+  {
+   "x": 45.97,
+   "y": 34.12,
+   "poiId": "landmark"
+  },
+  {
+   "x": 44.3,
+   "y": 68.17,
+   "poiId": "landmark"
+  },
+  {
+   "x": 24.34,
+   "y": 25.22,
+   "poiId": "landmark"
+  },
+  {
+   "x": 49.95,
+   "y": 61.03,
+   "poiId": "landmark"
+  },
+  {
+   "x": 60.65,
+   "y": 49.8,
+   "poiId": "landmark"
+  },
+  {
+   "x": 30.78,
+   "y": 21.5,
+   "poiId": "landmark"
+  },
+  {
+   "x": 56.46,
+   "y": 63.01,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.37,
+   "y": 79.63,
+   "poiId": "landmark"
+  },
+  {
+   "x": 73.79,
+   "y": 53.08,
+   "poiId": "landmark"
+  },
+  {
+   "x": 38.68,
+   "y": 32.99,
+   "poiId": "landmark"
+  },
+  {
+   "x": 48.95,
+   "y": 44.62,
+   "poiId": "landmark"
+  },
+  {
+   "x": 17.0,
+   "y": 62.56,
+   "poiId": "landmark"
+  },
+  {
+   "x": 81.45,
+   "y": 41.83,
+   "poiId": "landmark"
+  },
+  {
+   "x": 43.78,
+   "y": 52.44,
+   "poiId": "landmark"
+  },
+  {
+   "x": 26.02,
+   "y": 80.15,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.4,
+   "y": 76.84,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.67,
+   "y": 43.73,
+   "poiId": "landmark"
+  },
+  {
+   "x": 72.8,
+   "y": 34.5,
+   "poiId": "landmark"
+  },
+  {
+   "x": 25.41,
+   "y": 56.93,
+   "poiId": "landmark"
+  },
+  {
+   "x": 17.38,
+   "y": 38.85,
+   "poiId": "landmark"
+  },
+  {
+   "x": 24.11,
+   "y": 44.01,
+   "poiId": "landmark"
+  },
+  {
+   "x": 75.34,
+   "y": 57.76,
+   "poiId": "landmark"
+  },
+  {
+   "x": 29.28,
+   "y": 41.71,
+   "poiId": "landmark"
+  },
+  {
+   "x": 49.25,
+   "y": 30.85,
+   "poiId": "landmark"
+  },
+  {
+   "x": 16.67,
+   "y": 41.41,
+   "poiId": "landmark"
+  },
+  {
+   "x": 25.31,
+   "y": 36.88,
+   "poiId": "landmark"
+  },
+  {
+   "x": 83.04,
+   "y": 23.47,
+   "poiId": "landmark"
+  },
+  {
+   "x": 78.28,
+   "y": 33.51,
+   "poiId": "landmark"
+  },
+  {
+   "x": 73.36,
+   "y": 76.32,
+   "poiId": "landmark"
+  },
+  {
+   "x": 69.88,
+   "y": 57.07,
+   "poiId": "landmark"
+  },
+  {
+   "x": 52.83,
+   "y": 71.47,
+   "poiId": "landmark"
+  },
+  {
+   "x": 65.83,
+   "y": 50.26,
+   "poiId": "landmark"
+  },
+  {
+   "x": 71.46,
+   "y": 73.47,
+   "poiId": "landmark"
+  },
+  {
+   "x": 76.47,
+   "y": 52.1,
+   "poiId": "landmark"
+  },
+  {
+   "x": 67.14,
+   "y": 32.12,
+   "poiId": "landmark"
+  },
+  {
+   "x": 24.14,
+   "y": 75.87,
+   "poiId": "landmark"
+  },
+  {
+   "x": 32.26,
+   "y": 18.23,
+   "poiId": "landmark"
+  },
+  {
+   "x": 43.47,
+   "y": 77.11,
+   "poiId": "landmark"
+  },
+  {
+   "x": 29.8,
+   "y": 76.5,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.02,
+   "y": 79.98,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.66,
+   "y": 61.11,
+   "poiId": "landmark"
+  },
+  {
+   "x": 43.4,
+   "y": 67.09,
+   "poiId": "landmark"
+  },
+  {
+   "x": 64.02,
+   "y": 28.97,
+   "poiId": "landmark"
+  },
+  {
+   "x": 22.01,
+   "y": 57.58,
+   "poiId": "landmark"
+  },
+  {
+   "x": 58.79,
+   "y": 32.49,
+   "poiId": "landmark"
+  },
+  {
+   "x": 68.31,
+   "y": 64.37,
+   "poiId": "landmark"
+  },
+  {
+   "x": 73.29,
+   "y": 73.57,
+   "poiId": "landmark"
+  },
+  {
+   "x": 74.07,
+   "y": 31.21,
+   "poiId": "landmark"
+  },
+  {
+   "x": 47.48,
+   "y": 25.29,
+   "poiId": "landmark"
+  },
+  {
+   "x": 18.17,
+   "y": 53.67,
+   "poiId": "landmark"
+  },
+  {
+   "x": 10.84,
+   "y": 43.72,
+   "poiId": "landmark"
+  },
+  {
+   "x": 59.2,
+   "y": 70.34,
+   "poiId": "landmark"
+  },
+  {
+   "x": 34.56,
+   "y": 38.95,
+   "poiId": "landmark"
+  },
+  {
+   "x": 25.27,
+   "y": 46.62,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.79,
+   "y": 71.52,
+   "poiId": "landmark"
+  },
+  {
+   "x": 60.09,
+   "y": 42.62,
+   "poiId": "landmark"
+  },
+  {
+   "x": 29.53,
+   "y": 22.34,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.33,
+   "y": 46.06,
+   "poiId": "landmark"
+  },
+  {
+   "x": 40.9,
+   "y": 53.49,
+   "poiId": "landmark"
+  },
+  {
+   "x": 53.73,
+   "y": 54.28,
+   "poiId": "landmark"
+  },
+  {
+   "x": 29.85,
+   "y": 46.69,
+   "poiId": "landmark"
+  },
+  {
+   "x": 60.44,
+   "y": 60.01,
+   "poiId": "landmark"
+  },
+  {
+   "x": 46.98,
+   "y": 44.39,
+   "poiId": "landmark"
+  },
+  {
+   "x": 51.53,
+   "y": 51.52,
+   "poiId": "landmark"
+  },
+  {
+   "x": 55.76,
+   "y": 37.65,
+   "poiId": "landmark"
+  },
+  {
+   "x": 43.44,
+   "y": 16.89,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.78,
+   "y": 40.76,
+   "poiId": "landmark"
+  },
+  {
+   "x": 15.08,
+   "y": 48.68,
+   "poiId": "landmark"
+  },
+  {
+   "x": 48.91,
+   "y": 79.53,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.52,
+   "y": 51.22,
+   "poiId": "landmark"
+  },
+  {
+   "x": 34.99,
+   "y": 19.41,
+   "poiId": "landmark"
+  },
+  {
+   "x": 10.35,
+   "y": 72.92,
+   "poiId": "landmark"
+  },
+  {
+   "x": 81.98,
+   "y": 42.88,
+   "poiId": "landmark"
+  },
+  {
+   "x": 36.93,
+   "y": 47.22,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.33,
+   "y": 75.44,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.51,
+   "y": 79.63,
+   "poiId": "landmark"
+  },
+  {
+   "x": 46.09,
+   "y": 82.9,
+   "poiId": "landmark"
+  },
+  {
+   "x": 18.66,
+   "y": 67.8,
+   "poiId": "landmark"
+  },
+  {
+   "x": 14.14,
+   "y": 49.64,
+   "poiId": "landmark"
+  },
+  {
+   "x": 26.64,
+   "y": 51.63,
+   "poiId": "landmark"
+  },
+  {
+   "x": 50.92,
+   "y": 65.35,
+   "poiId": "landmark"
+  },
+  {
+   "x": 41.22,
+   "y": 77.78,
+   "poiId": "landmark"
+  },
+  {
+   "x": 77.74,
+   "y": 26.43,
+   "poiId": "landmark"
+  },
+  {
+   "x": 38.12,
+   "y": 61.01,
+   "poiId": "landmark"
+  },
+  {
+   "x": 13.0,
+   "y": 46.56,
+   "poiId": "landmark"
+  },
+  {
+   "x": 40.71,
+   "y": 59.25,
+   "poiId": "landmark"
+  },
+  {
+   "x": 79.7,
+   "y": 26.92,
+   "poiId": "landmark"
+  },
+  {
+   "x": 32.41,
+   "y": 72.72,
+   "poiId": "landmark"
+  },
+  {
+   "x": 32.57,
+   "y": 51.05,
+   "poiId": "landmark"
+  },
+  {
+   "x": 52.37,
+   "y": 51.62,
+   "poiId": "landmark"
+  },
+  {
+   "x": 16.6,
+   "y": 43.97,
+   "poiId": "landmark"
+  },
+  {
+   "x": 42.91,
+   "y": 44.41,
+   "poiId": "landmark"
+  },
+  {
+   "x": 57.86,
+   "y": 38.77,
+   "poiId": "landmark"
+  },
+  {
+   "x": 50.3,
+   "y": 81.13,
+   "poiId": "landmark"
+  },
+  {
+   "x": 76.92,
+   "y": 30.17,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.89,
+   "y": 39.36,
+   "poiId": "landmark"
+  },
+  {
+   "x": 46.5,
+   "y": 14.21,
+   "poiId": "landmark"
+  },
+  {
+   "x": 56.7,
+   "y": 23.9,
+   "poiId": "landmark"
+  },
+  {
+   "x": 69.58,
+   "y": 30.4,
+   "poiId": "landmark"
+  },
+  {
+   "x": 72.93,
+   "y": 72.2,
+   "poiId": "landmark"
+  },
+  {
+   "x": 32.87,
+   "y": 67.38,
+   "poiId": "landmark"
+  },
+  {
+   "x": 73.39,
+   "y": 62.38,
+   "poiId": "landmark"
+  },
+  {
+   "x": 75.06,
+   "y": 45.71,
+   "poiId": "landmark"
+  },
+  {
+   "x": 42.88,
+   "y": 71.14,
+   "poiId": "landmark"
+  },
+  {
+   "x": 61.83,
+   "y": 22.27,
+   "poiId": "landmark"
+  },
+  {
+   "x": 52.49,
+   "y": 48.11,
+   "poiId": "landmark"
+  },
+  {
+   "x": 65.1,
+   "y": 41.71,
+   "poiId": "landmark"
+  },
+  {
+   "x": 31.12,
+   "y": 74.9,
+   "poiId": "landmark"
+  },
+  {
+   "x": 12.85,
+   "y": 80.49,
+   "poiId": "landmark"
+  },
+  {
+   "x": 57.64,
+   "y": 77.18,
+   "poiId": "landmark"
+  },
+  {
+   "x": 21.3,
+   "y": 40.58,
+   "poiId": "landmark"
+  },
+  {
+   "x": 24.21,
+   "y": 77.03,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.86,
+   "y": 76.83,
+   "poiId": "landmark"
+  },
+  {
+   "x": 36.41,
+   "y": 20.15,
+   "poiId": "landmark"
+  },
+  {
+   "x": 24.79,
+   "y": 22.53,
+   "poiId": "landmark"
+  },
+  {
+   "x": 14.89,
+   "y": 64.15,
+   "poiId": "landmark"
+  },
+  {
+   "x": 49.38,
+   "y": 60.96,
+   "poiId": "landmark"
+  },
+  {
+   "x": 15.76,
+   "y": 45.0,
+   "poiId": "landmark"
+  },
+  {
+   "x": 54.17,
+   "y": 68.07,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.94,
+   "y": 60.1,
+   "poiId": "landmark"
+  },
+  {
+   "x": 22.02,
+   "y": 72.31,
+   "poiId": "landmark"
+  },
+  {
+   "x": 60.84,
+   "y": 27.68,
+   "poiId": "landmark"
+  },
+  {
+   "x": 38.77,
+   "y": 28.23,
+   "poiId": "landmark"
+  },
+  {
+   "x": 58.74,
+   "y": 33.92,
+   "poiId": "landmark"
+  },
+  {
+   "x": 70.13,
+   "y": 24.76,
+   "poiId": "landmark"
+  },
+  {
+   "x": 71.29,
+   "y": 61.04,
+   "poiId": "landmark"
+  },
+  {
+   "x": 37.63,
+   "y": 78.81,
+   "poiId": "landmark"
+  },
+  {
+   "x": 38.02,
+   "y": 35.6,
+   "poiId": "landmark"
+  },
+  {
+   "x": 39.08,
+   "y": 32.81,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.34,
+   "y": 72.77,
+   "poiId": "landmark"
+  },
+  {
+   "x": 14.52,
+   "y": 73.63,
+   "poiId": "landmark"
+  },
+  {
+   "x": 55.81,
+   "y": 33.33,
+   "poiId": "landmark"
+  },
+  {
+   "x": 12.22,
+   "y": 39.47,
+   "poiId": "landmark"
+  },
+  {
+   "x": 36.0,
+   "y": 45.58,
+   "poiId": "landmark"
+  },
+  {
+   "x": 36.63,
+   "y": 41.51,
+   "poiId": "landmark"
+  },
+  {
+   "x": 69.9,
+   "y": 52.41,
+   "poiId": "landmark"
+  },
+  {
+   "x": 49.07,
+   "y": 54.31,
+   "poiId": "landmark"
+  },
+  {
+   "x": 29.32,
+   "y": 27.81,
+   "poiId": "landmark"
+  },
+  {
+   "x": 67.35,
+   "y": 28.89,
+   "poiId": "landmark"
+  },
+  {
+   "x": 14.58,
+   "y": 64.92,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.15,
+   "y": 80.21,
+   "poiId": "landmark"
+  },
+  {
+   "x": 16.92,
+   "y": 54.9,
+   "poiId": "landmark"
+  },
+  {
+   "x": 50.92,
+   "y": 52.07,
+   "poiId": "landmark"
+  },
+  {
+   "x": 65.41,
+   "y": 72.74,
+   "poiId": "landmark"
+  },
+  {
+   "x": 58.17,
+   "y": 32.31,
+   "poiId": "landmark"
+  },
+  {
+   "x": 17.81,
+   "y": 35.78,
+   "poiId": "landmark"
+  },
+  {
+   "x": 68.13,
+   "y": 67.83,
+   "poiId": "landmark"
+  },
+  {
+   "x": 76.65,
+   "y": 34.16,
+   "poiId": "landmark"
+  },
+  {
+   "x": 69.43,
+   "y": 59.14,
+   "poiId": "landmark"
+  },
+  {
+   "x": 22.24,
+   "y": 82.8,
+   "poiId": "landmark"
+  },
+  {
+   "x": 45.74,
+   "y": 65.46,
+   "poiId": "landmark"
+  },
+  {
+   "x": 31.37,
+   "y": 22.24,
+   "poiId": "landmark"
+  },
+  {
+   "x": 18.04,
+   "y": 76.27,
+   "poiId": "landmark"
+  },
+  {
+   "x": 24.67,
+   "y": 33.04,
+   "poiId": "landmark"
+  },
+  {
+   "x": 54.51,
+   "y": 30.1,
+   "poiId": "landmark"
+  },
+  {
+   "x": 42.51,
+   "y": 24.37,
+   "poiId": "landmark"
+  },
+  {
+   "x": 32.28,
+   "y": 58.3,
+   "poiId": "landmark"
+  },
+  {
+   "x": 49.59,
+   "y": 37.89,
+   "poiId": "landmark"
+  },
+  {
+   "x": 48.31,
+   "y": 59.91,
+   "poiId": "landmark"
+  },
+  {
+   "x": 59.73,
+   "y": 60.39,
+   "poiId": "landmark"
+  },
+  {
+   "x": 42.71,
+   "y": 72.31,
+   "poiId": "landmark"
+  },
+  {
+   "x": 26.68,
+   "y": 61.18,
+   "poiId": "landmark"
+  },
+  {
+   "x": 48.44,
+   "y": 66.11,
+   "poiId": "landmark"
+  },
+  {
+   "x": 31.35,
+   "y": 60.23,
+   "poiId": "landmark"
+  },
+  {
+   "x": 38.18,
+   "y": 23.19,
+   "poiId": "landmark"
+  },
+  {
+   "x": 53.25,
+   "y": 38.22,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.12,
+   "y": 54.04,
+   "poiId": "landmark"
+  },
+  {
+   "x": 67.83,
+   "y": 45.89,
+   "poiId": "landmark"
+  },
+  {
+   "x": 56.36,
+   "y": 42.71,
+   "poiId": "landmark"
+  },
+  {
+   "x": 42.93,
+   "y": 74.28,
+   "poiId": "landmark"
+  },
+  {
+   "x": 62.23,
+   "y": 34.78,
+   "poiId": "landmark"
+  },
+  {
+   "x": 36.85,
+   "y": 63.91,
+   "poiId": "landmark"
+  },
+  {
+   "x": 66.75,
+   "y": 43.3,
+   "poiId": "landmark"
+  },
+  {
+   "x": 49.84,
+   "y": 73.93,
+   "poiId": "landmark"
+  },
+  {
+   "x": 65.13,
+   "y": 29.6,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.7,
+   "y": 17.23,
+   "poiId": "landmark"
+  },
+  {
+   "x": 59.85,
+   "y": 69.47,
+   "poiId": "landmark"
+  },
+  {
+   "x": 66.99,
+   "y": 27.63,
+   "poiId": "landmark"
+  },
+  {
+   "x": 19.57,
+   "y": 33.61,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.04,
+   "y": 46.86,
+   "poiId": "landmark"
+  },
+  {
+   "x": 47.93,
+   "y": 59.29,
+   "poiId": "landmark"
+  },
+  {
+   "x": 14.86,
+   "y": 44.06,
+   "poiId": "landmark"
+  },
+  {
+   "x": 32.84,
+   "y": 60.79,
+   "poiId": "landmark"
+  },
+  {
+   "x": 73.63,
+   "y": 51.57,
+   "poiId": "landmark"
+  },
+  {
+   "x": 29.33,
+   "y": 73.08,
+   "poiId": "landmark"
+  },
+  {
+   "x": 66.88,
+   "y": 32.18,
+   "poiId": "landmark"
+  },
+  {
+   "x": 18.97,
+   "y": 62.87,
+   "poiId": "landmark"
+  },
+  {
+   "x": 25.14,
+   "y": 34.87,
+   "poiId": "landmark"
+  },
+  {
+   "x": 68.04,
+   "y": 54.32,
+   "poiId": "landmark"
+  },
+  {
+   "x": 71.55,
+   "y": 39.39,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.35,
+   "y": 39.72,
+   "poiId": "landmark"
+  },
+  {
+   "x": 72.14,
+   "y": 59.68,
+   "poiId": "landmark"
+  },
+  {
+   "x": 35.83,
+   "y": 64.84,
+   "poiId": "landmark"
+  },
+  {
+   "x": 32.47,
+   "y": 19.61,
+   "poiId": "landmark"
+  },
+  {
+   "x": 55.82,
+   "y": 41.16,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.6,
+   "y": 34.59,
+   "poiId": "landmark"
+  },
+  {
+   "x": 57.84,
+   "y": 42.15,
+   "poiId": "landmark"
+  },
+  {
+   "x": 42.07,
+   "y": 83.61,
+   "poiId": "landmark"
+  },
+  {
+   "x": 37.46,
+   "y": 71.4,
+   "poiId": "landmark"
+  },
+  {
+   "x": 65.9,
+   "y": 59.97,
+   "poiId": "landmark"
+  },
+  {
+   "x": 48.96,
+   "y": 48.43,
+   "poiId": "landmark"
+  },
+  {
+   "x": 61.12,
+   "y": 56.6,
+   "poiId": "landmark"
+  },
+  {
+   "x": 37.57,
+   "y": 67.38,
+   "poiId": "landmark"
+  },
+  {
+   "x": 34.69,
+   "y": 36.55,
+   "poiId": "landmark"
+  },
+  {
+   "x": 49.28,
+   "y": 54.89,
+   "poiId": "landmark"
+  },
+  {
+   "x": 47.94,
+   "y": 36.3,
+   "poiId": "landmark"
+  },
+  {
+   "x": 72.25,
+   "y": 38.79,
+   "poiId": "landmark"
+  },
+  {
+   "x": 64.59,
+   "y": 77.21,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.35,
+   "y": 71.09,
+   "poiId": "landmark"
+  },
+  {
+   "x": 41.25,
+   "y": 61.48,
+   "poiId": "landmark"
+  }
+ ],
+ "ammo": [
+  {
+   "x": 33.82,
+   "y": 25.14,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 32.95,
+   "y": 24.05,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.85,
+   "y": 25.81,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.2,
+   "y": 25.69,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.21,
+   "y": 25.34,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.0,
+   "y": 25.63,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.33,
+   "y": 25.95,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.96,
+   "y": 25.06,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.31,
+   "y": 26.18,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.18,
+   "y": 24.85,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 31.62,
+   "y": 22.56,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.25,
+   "y": 26.36,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 32.64,
+   "y": 26.09,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.25,
+   "y": 24.38,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.95,
+   "y": 26.38,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.13,
+   "y": 25.42,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.04,
+   "y": 25.96,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 34.61,
+   "y": 25.49,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 56.92,
+   "y": 28.36,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 56.42,
+   "y": 29.59,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.15,
+   "y": 28.48,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.21,
+   "y": 28.85,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.24,
+   "y": 29.67,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.07,
+   "y": 28.32,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.66,
+   "y": 28.28,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 60.29,
+   "y": 29.28,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.79,
+   "y": 28.9,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.22,
+   "y": 27.38,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 56.62,
+   "y": 28.57,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 56.26,
+   "y": 28.02,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 57.83,
+   "y": 30.47,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.42,
+   "y": 28.88,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 56.92,
+   "y": 28.96,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 56.55,
+   "y": 29.03,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 68.91,
+   "y": 35.07,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.63,
+   "y": 36.82,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 69.24,
+   "y": 35.5,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.4,
+   "y": 34.15,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 66.98,
+   "y": 35.1,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.88,
+   "y": 35.69,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 69.91,
+   "y": 34.31,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.2,
+   "y": 35.82,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.35,
+   "y": 35.65,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.81,
+   "y": 35.77,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 69.07,
+   "y": 36.11,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 67.48,
+   "y": 35.58,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 22.58,
+   "y": 36.53,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.13,
+   "y": 37.52,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 23.79,
+   "y": 36.63,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.64,
+   "y": 37.01,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.8,
+   "y": 37.9,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.02,
+   "y": 39.28,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 21.97,
+   "y": 37.18,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.59,
+   "y": 37.76,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.24,
+   "y": 37.13,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 41.85,
+   "y": 38.73,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.44,
+   "y": 39.73,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 43.59,
+   "y": 38.01,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.29,
+   "y": 39.65,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 40.98,
+   "y": 39.21,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.92,
+   "y": 38.91,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 39.81,
+   "y": 39.5,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 42.72,
+   "y": 37.65,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.16,
+   "y": 38.61,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 43.07,
+   "y": 39.05,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 42.04,
+   "y": 38.91,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 42.51,
+   "y": 39.16,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 42.92,
+   "y": 39.6,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 30.72,
+   "y": 50.41,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.64,
+   "y": 50.19,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.33,
+   "y": 50.63,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.34,
+   "y": 51.2,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.68,
+   "y": 51.13,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 30.1,
+   "y": 50.15,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 27.59,
+   "y": 51.5,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 30.02,
+   "y": 49.77,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.34,
+   "y": 51.16,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.95,
+   "y": 50.03,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.04,
+   "y": 50.16,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.35,
+   "y": 50.72,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.89,
+   "y": 50.36,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.7,
+   "y": 49.05,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 31.38,
+   "y": 49.13,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 30.63,
+   "y": 51.13,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 28.01,
+   "y": 48.0,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.66,
+   "y": 50.2,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 27.33,
+   "y": 51.14,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 57.18,
+   "y": 49.24,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 58.43,
+   "y": 48.97,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 56.74,
+   "y": 48.98,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 59.36,
+   "y": 49.66,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 56.17,
+   "y": 50.57,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 56.66,
+   "y": 49.67,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 57.61,
+   "y": 51.02,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 55.44,
+   "y": 48.48,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 55.9,
+   "y": 48.82,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 59.32,
+   "y": 49.24,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 56.73,
+   "y": 49.09,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 55.69,
+   "y": 49.37,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 72.02,
+   "y": 53.51,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 72.09,
+   "y": 53.68,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 70.97,
+   "y": 54.47,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.9,
+   "y": 54.32,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.0,
+   "y": 54.67,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 72.04,
+   "y": 54.15,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 72.29,
+   "y": 54.95,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 72.34,
+   "y": 52.4,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 72.18,
+   "y": 54.03,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.68,
+   "y": 53.52,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 73.08,
+   "y": 54.09,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.21,
+   "y": 53.61,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 69.96,
+   "y": 54.36,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.25,
+   "y": 54.99,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 43.47,
+   "y": 60.51,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.03,
+   "y": 60.43,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.4,
+   "y": 60.48,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.69,
+   "y": 60.52,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.42,
+   "y": 60.63,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 41.25,
+   "y": 59.77,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 45.91,
+   "y": 59.89,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.47,
+   "y": 60.61,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 43.0,
+   "y": 59.89,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 45.57,
+   "y": 60.32,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.69,
+   "y": 61.1,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 43.4,
+   "y": 61.36,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.89,
+   "y": 59.78,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.82,
+   "y": 59.92,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 43.68,
+   "y": 60.43,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.22,
+   "y": 61.17,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 43.71,
+   "y": 59.87,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 46.09,
+   "y": 59.63,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 25.25,
+   "y": 66.51,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 25.43,
+   "y": 66.75,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.64,
+   "y": 66.38,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.44,
+   "y": 65.64,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 27.09,
+   "y": 66.35,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 25.11,
+   "y": 66.04,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 25.95,
+   "y": 66.12,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 27.15,
+   "y": 66.63,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.71,
+   "y": 65.34,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 25.11,
+   "y": 68.34,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.42,
+   "y": 64.8,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.74,
+   "y": 65.53,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 24.48,
+   "y": 66.59,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.6,
+   "y": 66.28,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.77,
+   "y": 66.11,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.21,
+   "y": 65.74,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.7,
+   "y": 65.19,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 26.09,
+   "y": 67.23,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 24.51,
+   "y": 66.27,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 25.16,
+   "y": 65.28,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 62.01,
+   "y": 65.55,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.18,
+   "y": 65.15,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.69,
+   "y": 65.72,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 60.69,
+   "y": 65.72,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.27,
+   "y": 65.39,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 60.45,
+   "y": 65.66,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.08,
+   "y": 66.11,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.09,
+   "y": 65.08,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.18,
+   "y": 65.06,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.21,
+   "y": 66.1,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.82,
+   "y": 63.43,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.14,
+   "y": 64.66,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.0,
+   "y": 65.61,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.34,
+   "y": 65.45,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.84,
+   "y": 65.98,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 45.92,
+   "y": 74.71,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 44.44,
+   "y": 73.36,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.22,
+   "y": 75.37,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.56,
+   "y": 76.33,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.13,
+   "y": 73.37,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.25,
+   "y": 75.31,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 42.96,
+   "y": 73.37,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 43.8,
+   "y": 74.17,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.83,
+   "y": 75.41,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 46.25,
+   "y": 75.2,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 46.31,
+   "y": 74.36,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 67.75,
+   "y": 77.67,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.19,
+   "y": 76.69,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.03,
+   "y": 75.93,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.42,
+   "y": 76.41,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 66.6,
+   "y": 76.05,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.63,
+   "y": 76.05,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 68.45,
+   "y": 75.51,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.22,
+   "y": 76.79,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 66.32,
+   "y": 76.79,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.94,
+   "y": 76.5,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 47.45,
+   "y": 51.01,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 46.92,
+   "y": 50.21,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 46.84,
+   "y": 49.65,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 48.79,
+   "y": 50.05,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 44.81,
+   "y": 51.25,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 45.26,
+   "y": 50.33,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 46.42,
+   "y": 48.87,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 45.84,
+   "y": 49.11,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.27,
+   "y": 49.71,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 46.37,
+   "y": 50.07,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.21,
+   "y": 50.65,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.42,
+   "y": 47.73,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.27,
+   "y": 50.62,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.38,
+   "y": 49.88,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.45,
+   "y": 49.0,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 47.46,
+   "y": 49.95,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 11.27,
+   "y": 40.94,
+   "poiId": "landmark"
+  },
+  {
+   "x": 65.77,
+   "y": 51.31,
+   "poiId": "landmark"
+  },
+  {
+   "x": 42.32,
+   "y": 83.58,
+   "poiId": "landmark"
+  },
+  {
+   "x": 55.75,
+   "y": 76.72,
+   "poiId": "landmark"
+  },
+  {
+   "x": 37.87,
+   "y": 50.79,
+   "poiId": "landmark"
+  },
+  {
+   "x": 73.84,
+   "y": 56.44,
+   "poiId": "landmark"
+  },
+  {
+   "x": 37.29,
+   "y": 73.56,
+   "poiId": "landmark"
+  },
+  {
+   "x": 75.46,
+   "y": 56.89,
+   "poiId": "landmark"
+  },
+  {
+   "x": 37.05,
+   "y": 62.66,
+   "poiId": "landmark"
+  },
+  {
+   "x": 50.99,
+   "y": 76.16,
+   "poiId": "landmark"
+  },
+  {
+   "x": 12.21,
+   "y": 58.38,
+   "poiId": "landmark"
+  },
+  {
+   "x": 9.02,
+   "y": 85.88,
+   "poiId": "landmark"
+  },
+  {
+   "x": 46.03,
+   "y": 54.43,
+   "poiId": "landmark"
+  },
+  {
+   "x": 44.08,
+   "y": 78.45,
+   "poiId": "landmark"
+  },
+  {
+   "x": 39.86,
+   "y": 43.64,
+   "poiId": "landmark"
+  },
+  {
+   "x": 32.33,
+   "y": 46.13,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.51,
+   "y": 36.87,
+   "poiId": "landmark"
+  },
+  {
+   "x": 40.43,
+   "y": 49.0,
+   "poiId": "landmark"
+  },
+  {
+   "x": 46.43,
+   "y": 31.14,
+   "poiId": "landmark"
+  },
+  {
+   "x": 46.95,
+   "y": 67.72,
+   "poiId": "landmark"
+  },
+  {
+   "x": 64.13,
+   "y": 73.32,
+   "poiId": "landmark"
+  },
+  {
+   "x": 57.76,
+   "y": 54.77,
+   "poiId": "landmark"
+  },
+  {
+   "x": 16.59,
+   "y": 54.69,
+   "poiId": "landmark"
+  },
+  {
+   "x": 59.96,
+   "y": 35.6,
+   "poiId": "landmark"
+  },
+  {
+   "x": 55.58,
+   "y": 67.97,
+   "poiId": "landmark"
+  },
+  {
+   "x": 53.91,
+   "y": 31.72,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.61,
+   "y": 30.95,
+   "poiId": "landmark"
+  },
+  {
+   "x": 44.29,
+   "y": 42.12,
+   "poiId": "landmark"
+  },
+  {
+   "x": 18.93,
+   "y": 12.5,
+   "poiId": "landmark"
+  },
+  {
+   "x": 52.17,
+   "y": 74.5,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.62,
+   "y": 70.89,
+   "poiId": "landmark"
+  },
+  {
+   "x": 54.9,
+   "y": 67.44,
+   "poiId": "landmark"
+  },
+  {
+   "x": 66.15,
+   "y": 47.66,
+   "poiId": "landmark"
+  },
+  {
+   "x": 19.71,
+   "y": 11.67,
+   "poiId": "landmark"
+  },
+  {
+   "x": 30.23,
+   "y": 76.25,
+   "poiId": "landmark"
+  },
+  {
+   "x": 11.57,
+   "y": 70.93,
+   "poiId": "landmark"
+  },
+  {
+   "x": 77.81,
+   "y": 33.37,
+   "poiId": "landmark"
+  },
+  {
+   "x": 60.61,
+   "y": 68.49,
+   "poiId": "landmark"
+  },
+  {
+   "x": 47.64,
+   "y": 32.89,
+   "poiId": "landmark"
+  },
+  {
+   "x": 70.62,
+   "y": 65.49,
+   "poiId": "landmark"
+  },
+  {
+   "x": 15.43,
+   "y": 38.69,
+   "poiId": "landmark"
+  },
+  {
+   "x": 31.63,
+   "y": 27.65,
+   "poiId": "landmark"
+  },
+  {
+   "x": 58.71,
+   "y": 59.84,
+   "poiId": "landmark"
+  },
+  {
+   "x": 67.91,
+   "y": 64.47,
+   "poiId": "landmark"
+  },
+  {
+   "x": 55.82,
+   "y": 73.48,
+   "poiId": "landmark"
+  },
+  {
+   "x": 54.99,
+   "y": 51.87,
+   "poiId": "landmark"
+  },
+  {
+   "x": 47.94,
+   "y": 20.99,
+   "poiId": "landmark"
+  },
+  {
+   "x": 65.91,
+   "y": 49.55,
+   "poiId": "landmark"
+  },
+  {
+   "x": 71.54,
+   "y": 33.23,
+   "poiId": "landmark"
+  },
+  {
+   "x": 73.06,
+   "y": 61.31,
+   "poiId": "landmark"
+  },
+  {
+   "x": 57.24,
+   "y": 66.66,
+   "poiId": "landmark"
+  },
+  {
+   "x": 54.19,
+   "y": 42.79,
+   "poiId": "landmark"
+  },
+  {
+   "x": 35.02,
+   "y": 77.15,
+   "poiId": "landmark"
+  },
+  {
+   "x": 77.44,
+   "y": 54.47,
+   "poiId": "landmark"
+  },
+  {
+   "x": 84.13,
+   "y": 54.29,
+   "poiId": "landmark"
+  },
+  {
+   "x": 57.84,
+   "y": 39.27,
+   "poiId": "landmark"
+  },
+  {
+   "x": 66.49,
+   "y": 34.12,
+   "poiId": "landmark"
+  },
+  {
+   "x": 22.89,
+   "y": 19.05,
+   "poiId": "landmark"
+  },
+  {
+   "x": 35.12,
+   "y": 78.84,
+   "poiId": "landmark"
+  },
+  {
+   "x": 21.91,
+   "y": 56.43,
+   "poiId": "landmark"
+  },
+  {
+   "x": 40.73,
+   "y": 58.16,
+   "poiId": "landmark"
+  },
+  {
+   "x": 66.12,
+   "y": 72.23,
+   "poiId": "landmark"
+  },
+  {
+   "x": 59.84,
+   "y": 51.72,
+   "poiId": "landmark"
+  },
+  {
+   "x": 54.7,
+   "y": 60.14,
+   "poiId": "landmark"
+  },
+  {
+   "x": 60.29,
+   "y": 25.06,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.13,
+   "y": 20.18,
+   "poiId": "landmark"
+  },
+  {
+   "x": 41.07,
+   "y": 21.5,
+   "poiId": "landmark"
+  },
+  {
+   "x": 68.41,
+   "y": 47.2,
+   "poiId": "landmark"
+  },
+  {
+   "x": 53.26,
+   "y": 27.23,
+   "poiId": "landmark"
+  },
+  {
+   "x": 59.93,
+   "y": 68.48,
+   "poiId": "landmark"
+  },
+  {
+   "x": 40.17,
+   "y": 31.03,
+   "poiId": "landmark"
+  },
+  {
+   "x": 53.73,
+   "y": 67.07,
+   "poiId": "landmark"
+  },
+  {
+   "x": 43.14,
+   "y": 67.1,
+   "poiId": "landmark"
+  },
+  {
+   "x": 47.4,
+   "y": 81.89,
+   "poiId": "landmark"
+  },
+  {
+   "x": 65.67,
+   "y": 56.94,
+   "poiId": "landmark"
+  },
+  {
+   "x": 47.87,
+   "y": 33.86,
+   "poiId": "landmark"
+  },
+  {
+   "x": 70.29,
+   "y": 57.28,
+   "poiId": "landmark"
+  },
+  {
+   "x": 52.94,
+   "y": 77.82,
+   "poiId": "landmark"
+  },
+  {
+   "x": 29.17,
+   "y": 69.2,
+   "poiId": "landmark"
+  },
+  {
+   "x": 66.39,
+   "y": 56.19,
+   "poiId": "landmark"
+  },
+  {
+   "x": 22.12,
+   "y": 80.42,
+   "poiId": "landmark"
+  },
+  {
+   "x": 25.16,
+   "y": 29.18,
+   "poiId": "landmark"
+  },
+  {
+   "x": 29.32,
+   "y": 83.03,
+   "poiId": "landmark"
+  },
+  {
+   "x": 24.31,
+   "y": 57.81,
+   "poiId": "landmark"
+  },
+  {
+   "x": 57.77,
+   "y": 83.55,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.58,
+   "y": 51.16,
+   "poiId": "landmark"
+  },
+  {
+   "x": 70.76,
+   "y": 29.56,
+   "poiId": "landmark"
+  },
+  {
+   "x": 67.43,
+   "y": 28.75,
+   "poiId": "landmark"
+  },
+  {
+   "x": 32.1,
+   "y": 78.46,
+   "poiId": "landmark"
+  },
+  {
+   "x": 13.48,
+   "y": 35.05,
+   "poiId": "landmark"
+  },
+  {
+   "x": 65.31,
+   "y": 29.79,
+   "poiId": "landmark"
+  },
+  {
+   "x": 36.44,
+   "y": 49.95,
+   "poiId": "landmark"
+  },
+  {
+   "x": 36.42,
+   "y": 58.99,
+   "poiId": "landmark"
+  },
+  {
+   "x": 58.39,
+   "y": 58.56,
+   "poiId": "landmark"
+  },
+  {
+   "x": 59.16,
+   "y": 43.34,
+   "poiId": "landmark"
+  },
+  {
+   "x": 31.03,
+   "y": 65.1,
+   "poiId": "landmark"
+  },
+  {
+   "x": 62.9,
+   "y": 56.21,
+   "poiId": "landmark"
+  },
+  {
+   "x": 58.54,
+   "y": 72.42,
+   "poiId": "landmark"
+  },
+  {
+   "x": 55.25,
+   "y": 72.72,
+   "poiId": "landmark"
+  },
+  {
+   "x": 38.11,
+   "y": 65.33,
+   "poiId": "landmark"
+  },
+  {
+   "x": 68.39,
+   "y": 28.47,
+   "poiId": "landmark"
+  },
+  {
+   "x": 53.18,
+   "y": 44.46,
+   "poiId": "landmark"
+  },
+  {
+   "x": 36.03,
+   "y": 50.0,
+   "poiId": "landmark"
+  },
+  {
+   "x": 17.86,
+   "y": 44.69,
+   "poiId": "landmark"
+  },
+  {
+   "x": 45.99,
+   "y": 54.22,
+   "poiId": "landmark"
+  },
+  {
+   "x": 67.33,
+   "y": 30.21,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.66,
+   "y": 16.43,
+   "poiId": "landmark"
+  },
+  {
+   "x": 46.35,
+   "y": 68.35,
+   "poiId": "landmark"
+  },
+  {
+   "x": 50.31,
+   "y": 58.65,
+   "poiId": "landmark"
+  },
+  {
+   "x": 20.8,
+   "y": 50.04,
+   "poiId": "landmark"
+  },
+  {
+   "x": 64.46,
+   "y": 29.47,
+   "poiId": "landmark"
+  },
+  {
+   "x": 65.03,
+   "y": 65.62,
+   "poiId": "landmark"
+  },
+  {
+   "x": 70.52,
+   "y": 70.87,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.49,
+   "y": 75.26,
+   "poiId": "landmark"
+  },
+  {
+   "x": 74.7,
+   "y": 36.43,
+   "poiId": "landmark"
+  },
+  {
+   "x": 45.62,
+   "y": 70.49,
+   "poiId": "landmark"
+  },
+  {
+   "x": 63.8,
+   "y": 62.42,
+   "poiId": "landmark"
+  },
+  {
+   "x": 41.08,
+   "y": 45.94,
+   "poiId": "landmark"
+  },
+  {
+   "x": 8.29,
+   "y": 88.18,
+   "poiId": "landmark"
+  },
+  {
+   "x": 34.85,
+   "y": 70.59,
+   "poiId": "landmark"
+  },
+  {
+   "x": 17.91,
+   "y": 40.54,
+   "poiId": "landmark"
+  },
+  {
+   "x": 57.7,
+   "y": 68.86,
+   "poiId": "landmark"
+  },
+  {
+   "x": 43.37,
+   "y": 80.51,
+   "poiId": "landmark"
+  },
+  {
+   "x": 25.87,
+   "y": 14.16,
+   "poiId": "landmark"
+  },
+  {
+   "x": 34.23,
+   "y": 51.07,
+   "poiId": "landmark"
+  },
+  {
+   "x": 62.01,
+   "y": 36.63,
+   "poiId": "landmark"
+  },
+  {
+   "x": 72.79,
+   "y": 66.24,
+   "poiId": "landmark"
+  },
+  {
+   "x": 53.48,
+   "y": 45.48,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.46,
+   "y": 51.01,
+   "poiId": "landmark"
+  },
+  {
+   "x": 22.42,
+   "y": 55.1,
+   "poiId": "landmark"
+  },
+  {
+   "x": 38.55,
+   "y": 60.07,
+   "poiId": "landmark"
+  },
+  {
+   "x": 47.23,
+   "y": 81.78,
+   "poiId": "landmark"
+  },
+  {
+   "x": 81.12,
+   "y": 23.8,
+   "poiId": "landmark"
+  },
+  {
+   "x": 40.51,
+   "y": 71.68,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.8,
+   "y": 19.1,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.52,
+   "y": 75.24,
+   "poiId": "landmark"
+  },
+  {
+   "x": 26.26,
+   "y": 47.39,
+   "poiId": "landmark"
+  },
+  {
+   "x": 59.15,
+   "y": 73.55,
+   "poiId": "landmark"
+  },
+  {
+   "x": 29.93,
+   "y": 65.42,
+   "poiId": "landmark"
+  },
+  {
+   "x": 27.25,
+   "y": 40.9,
+   "poiId": "landmark"
+  },
+  {
+   "x": 45.88,
+   "y": 20.28,
+   "poiId": "landmark"
+  },
+  {
+   "x": 79.07,
+   "y": 53.16,
+   "poiId": "landmark"
+  },
+  {
+   "x": 78.13,
+   "y": 25.88,
+   "poiId": "landmark"
+  },
+  {
+   "x": 79.09,
+   "y": 58.91,
+   "poiId": "landmark"
+  },
+  {
+   "x": 48.58,
+   "y": 74.85,
+   "poiId": "landmark"
+  },
+  {
+   "x": 49.08,
+   "y": 23.84,
+   "poiId": "landmark"
+  },
+  {
+   "x": 45.62,
+   "y": 21.4,
+   "poiId": "landmark"
+  },
+  {
+   "x": 53.89,
+   "y": 75.38,
+   "poiId": "landmark"
+  },
+  {
+   "x": 61.83,
+   "y": 33.17,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.15,
+   "y": 63.97,
+   "poiId": "landmark"
+  }
+ ],
+ "vehicles": [
+  {
+   "x": 33.75,
+   "y": 26.72,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 32.17,
+   "y": 24.11,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.94,
+   "y": 25.55,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 57.57,
+   "y": 28.25,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 56.37,
+   "y": 29.58,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 55.7,
+   "y": 28.2,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 68.75,
+   "y": 36.12,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.88,
+   "y": 36.12,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 68.55,
+   "y": 35.64,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 23.05,
+   "y": 37.06,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.76,
+   "y": 36.28,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.98,
+   "y": 37.68,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 41.54,
+   "y": 38.81,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 40.7,
+   "y": 39.09,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 40.27,
+   "y": 37.91,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 28.8,
+   "y": 50.3,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 31.29,
+   "y": 50.72,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 29.07,
+   "y": 50.55,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 58.98,
+   "y": 48.35,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 57.21,
+   "y": 49.68,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 56.33,
+   "y": 49.9,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 71.14,
+   "y": 52.97,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 72.53,
+   "y": 55.13,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 70.63,
+   "y": 52.88,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 45.25,
+   "y": 61.48,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 45.62,
+   "y": 59.3,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 43.63,
+   "y": 62.19,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 26.41,
+   "y": 67.24,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 24.66,
+   "y": 66.05,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 25.89,
+   "y": 65.78,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 62.03,
+   "y": 65.7,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 62.21,
+   "y": 64.59,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.24,
+   "y": 64.42,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 44.89,
+   "y": 74.11,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 47.32,
+   "y": 74.87,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 44.55,
+   "y": 76.44,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 67.04,
+   "y": 75.86,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.38,
+   "y": 75.85,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 67.29,
+   "y": 75.61,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 45.4,
+   "y": 47.99,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 46.76,
+   "y": 49.73,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 48.62,
+   "y": 48.68,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 37.67,
+   "y": 51.51,
+   "poiId": "landmark"
+  },
+  {
+   "x": 25.38,
+   "y": 55.97,
+   "poiId": "landmark"
+  },
+  {
+   "x": 33.02,
+   "y": 42.67,
+   "poiId": "landmark"
+  },
+  {
+   "x": 29.56,
+   "y": 81.13,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.45,
+   "y": 16.06,
+   "poiId": "landmark"
+  },
+  {
+   "x": 58.87,
+   "y": 62.99,
+   "poiId": "landmark"
+  },
+  {
+   "x": 54.97,
+   "y": 72.69,
+   "poiId": "landmark"
+  },
+  {
+   "x": 67.8,
+   "y": 54.37,
+   "poiId": "landmark"
+  },
+  {
+   "x": 26.27,
+   "y": 66.55,
+   "poiId": "landmark"
+  },
+  {
+   "x": 17.23,
+   "y": 82.19,
+   "poiId": "landmark"
+  },
+  {
+   "x": 62.99,
+   "y": 33.74,
+   "poiId": "landmark"
+  },
+  {
+   "x": 34.89,
+   "y": 13.18,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.79,
+   "y": 31.92,
+   "poiId": "landmark"
+  },
+  {
+   "x": 29.14,
+   "y": 16.15,
+   "poiId": "landmark"
+  },
+  {
+   "x": 60.59,
+   "y": 53.86,
+   "poiId": "landmark"
+  },
+  {
+   "x": 52.42,
+   "y": 50.08,
+   "poiId": "landmark"
+  },
+  {
+   "x": 60.62,
+   "y": 68.71,
+   "poiId": "landmark"
+  },
+  {
+   "x": 73.74,
+   "y": 42.97,
+   "poiId": "landmark"
+  },
+  {
+   "x": 46.93,
+   "y": 27.19,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.08,
+   "y": 71.42,
+   "poiId": "landmark"
+  },
+  {
+   "x": 13.21,
+   "y": 39.65,
+   "poiId": "landmark"
+  },
+  {
+   "x": 40.48,
+   "y": 31.5,
+   "poiId": "landmark"
+  },
+  {
+   "x": 31.45,
+   "y": 16.37,
+   "poiId": "landmark"
+  },
+  {
+   "x": 37.3,
+   "y": 28.06,
+   "poiId": "landmark"
+  },
+  {
+   "x": 57.6,
+   "y": 47.23,
+   "poiId": "landmark"
+  },
+  {
+   "x": 36.62,
+   "y": 22.32,
+   "poiId": "landmark"
+  },
+  {
+   "x": 22.09,
+   "y": 36.78,
+   "poiId": "landmark"
+  },
+  {
+   "x": 26.75,
+   "y": 28.65,
+   "poiId": "landmark"
+  }
+ ],
+ "vending": [
+  {
+   "x": 32.69,
+   "y": 26.09,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 33.32,
+   "y": 25.88,
+   "poiId": "lifty-lodge"
+  },
+  {
+   "x": 58.06,
+   "y": 30.35,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 58.18,
+   "y": 30.8,
+   "poiId": "latte-landing"
+  },
+  {
+   "x": 68.3,
+   "y": 34.9,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 69.3,
+   "y": 35.11,
+   "poiId": "wonkeeland"
+  },
+  {
+   "x": 22.76,
+   "y": 36.99,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 22.57,
+   "y": 37.22,
+   "poiId": "chopped-shop"
+  },
+  {
+   "x": 43.27,
+   "y": 39.67,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 41.81,
+   "y": 38.65,
+   "poiId": "battlewoods"
+  },
+  {
+   "x": 28.37,
+   "y": 50.17,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 30.39,
+   "y": 50.99,
+   "poiId": "calamari-canyon"
+  },
+  {
+   "x": 57.42,
+   "y": 49.44,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 57.81,
+   "y": 49.7,
+   "poiId": "frosted-flats"
+  },
+  {
+   "x": 72.25,
+   "y": 54.22,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 71.66,
+   "y": 53.05,
+   "poiId": "golden-grove"
+  },
+  {
+   "x": 43.51,
+   "y": 61.7,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 44.31,
+   "y": 60.12,
+   "poiId": "sinister-strip"
+  },
+  {
+   "x": 26.49,
+   "y": 66.34,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 24.14,
+   "y": 65.02,
+   "poiId": "heatwave-harbor"
+  },
+  {
+   "x": 61.26,
+   "y": 65.46,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 61.35,
+   "y": 65.27,
+   "poiId": "shaken-sanctuary"
+  },
+  {
+   "x": 45.11,
+   "y": 74.43,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 45.67,
+   "y": 73.88,
+   "poiId": "sunken-shores"
+  },
+  {
+   "x": 66.93,
+   "y": 75.8,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 64.89,
+   "y": 76.97,
+   "poiId": "cluster-coast"
+  },
+  {
+   "x": 46.59,
+   "y": 47.17,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 45.86,
+   "y": 50.88,
+   "poiId": "zero-point"
+  },
+  {
+   "x": 35.88,
+   "y": 57.89,
+   "poiId": "landmark"
+  },
+  {
+   "x": 31.98,
+   "y": 16.32,
+   "poiId": "landmark"
+  },
+  {
+   "x": 25.21,
+   "y": 72.36,
+   "poiId": "landmark"
+  },
+  {
+   "x": 28.23,
+   "y": 29.36,
+   "poiId": "landmark"
+  },
+  {
+   "x": 47.25,
+   "y": 57.58,
+   "poiId": "landmark"
+  },
+  {
+   "x": 62.23,
+   "y": 30.58,
+   "poiId": "landmark"
+  },
+  {
+   "x": 65.18,
+   "y": 39.45,
+   "poiId": "landmark"
+  },
+  {
+   "x": 19.46,
+   "y": 48.2,
+   "poiId": "landmark"
+  },
+  {
+   "x": 39.55,
+   "y": 34.71,
+   "poiId": "landmark"
+  },
+  {
+   "x": 23.67,
+   "y": 32.45,
+   "poiId": "landmark"
+  }
+ ]
+}
